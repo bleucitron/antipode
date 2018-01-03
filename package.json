@@ -1,7 +1,7 @@
 {
   "name": "antipode",
   "version": "1.0.0",
-  "description": "My blog about going to New Zealand, or not",
+  "description": "My blog about going to New Zealand, or not :p",
   "main": "index.js",
   "scripts": {
     "build": "npm-run-all --parallel build:*",
